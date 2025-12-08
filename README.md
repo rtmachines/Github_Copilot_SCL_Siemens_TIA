@@ -1,3 +1,5 @@
+# 🏭 Siemens SCL TIA Portal - GitHub Copilot Agent Workspace
+
 > ** SCL code generation and debugging for Siemens S7-1500/S7-1200 PLCs using GitHub Copilot Agents**
 
 [![TIA Portal](https://img.shields.io/badge/TIA%20Portal-Compatible-009999?style=flat-square)](https://www.siemens.com/tia-portal)
@@ -473,7 +475,21 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-This project is provided as-is for educational development purposes. 
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### Knowledge Base Attribution
+
+The SCL knowledge base files in `.github/knowledge-bases/Siemens_SCL_TIA_Portal/` are derived from materials licensed under the MIT License:
+
+**Copyright (c) 2025 SKLSDE, Beihang University**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Trademarks
 
 **Note**: Siemens, TIA Portal, S7-1500, S7-1200, and SCL are trademarks of Siemens AG. This repository is not affiliated with or endorsed by Siemens AG.
 
@@ -494,3 +510,9 @@ This project is provided as-is for educational development purposes.
 - Siemens AG for TIA Portal and SCL language
 - GitHub for Copilot AI capabilities
 - PLC programming community for best practices
+
+---
+
+Made with ❤️ for the Industrial Automation Community
+
+Accelerating PLC development with AI-powered code generation
