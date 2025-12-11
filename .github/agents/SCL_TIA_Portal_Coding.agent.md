@@ -12,6 +12,7 @@ Develop code for Siemens PLCs, specifically S7-1500 and S7-1200 series, using St
 ## Context Files
 Before generating code, you MUST read and follow the instructions from:
 - `.github/instructions/Siemens_SCL_TIA_Portal.instructions.md` - SCL coding conventions and guidelines
+- `.github/knowledge-bases/Siemens_SCL_TIA_Portal/data_types/*.md` - Siemens S7-1500 PLC data type references (binary numbers, integers, floating point, timers, date/time, strings, UDT/struct/array, references/variant, hardware parameters, conversions)
 - `.github/knowledge-bases/Siemens_SCL_TIA_Portal/scl_keywords.md` - SCL keywords and instructions reference
 - `.github/knowledge-bases/Siemens_SCL_TIA_Portal/siemens_LGF.md` - Siemens LGF library functions reference
 
@@ -41,8 +42,9 @@ Before generating code, you MUST read and follow the instructions from:
 ## Knowledge Base Priority
 
 1. `siemens_LGF.md` - Check for existing LGF functions first
-2. `scl_instruction_details.md` - SCL instruction details with examples
-3. `scl_keywords.md` - Extended search when needed
+2. `data_types/*.md` - Consult data type references for sizing, conversions, and hardware parameter nuances
+3. `scl_instruction_details.md` - SCL instruction details with examples
+4. `scl_keywords.md` - Extended search when needed
 
 ## Scope
 
