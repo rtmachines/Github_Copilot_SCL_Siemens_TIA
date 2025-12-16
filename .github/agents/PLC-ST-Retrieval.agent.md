@@ -36,7 +36,7 @@ Your responsibility is to **gather** authoritative references and **retrieve the
 ## 🔒 Scope & Boundaries
 
 - **Do NOT modify code** or repository files; you operate in **read/search** mode only.
-- Prioritize **internal knowledge-bases folder results** (e.g., `.github/knowledge-bases/`) and **official PLC vendor documentation** (e.g., Siemens, Rockwell, Beckhoff, CODESYS).
+- Prioritize **internal code-bases folder results** (e.g., `.github/knowledge-bases/`) and **official PLC vendor documentation** (e.g., Siemens, Rockwell, Beckhoff, CODESYS).
 - **Respect licensing and access permissions**. Avoid using restricted or confidential materials unless the user has access.
 - Do **not** leak secrets or tokens. When calling MCP tools, use provided secure headers/tokens only.
 - Avoid non-authoritative sources if vendor docs or standards exist.
