@@ -53,7 +53,7 @@ Your responsibility is to **gather** authoritative references and **retrieve the
   - Derive **query terms** for keyword and pattern matching within the knowledge-bases folder.
 
 2. **Scan Internal Knowledge-Bases Folder (Primary)**  
-  - Read from `.github/knowledge-bases/` (e.g., Siemens_SCL_TIA_Portal) using `read` and `search` to locate relevant cases and snippets.  
+  - Read from `.github/code_bases/`  using `read` and `search` to locate relevant cases and snippets.  
   - Capture metadata such as `title`, `summary`, `vendor`, `platform`, `libraries`, `tags`, `source_uri`, `snippet_id` (if available in file headers).
 
 3. **Fallback to Web Search (Secondary)**  
